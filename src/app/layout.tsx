@@ -1,5 +1,6 @@
 import { Inter } from "next/font/google";
-
+//@ts-ignore
+import supportsColor from 'supports-color';
 // Styles
 import "./globals.css";
 
